@@ -5,3 +5,11 @@ https://huggingface.co/spaces/jiawei011/dreamgaussian
 https://free3d.com/ja/3d-model/monitor-79124.html
 https://free3d.com/ja/3d-model/wolf-rigged-and-game-ready-42808.html
 https://www.kabuku.io/case/3d-printer/step-stl/
+
+https://www.blender.org/download/
+https://www.autodesk.co.jp/products/maya/free-trial
+
+https://github.com/nv-tlabs/DIB-R-Single-Image-3D-Reconstruction/tree/main
+https://github.com/junshutang/Make-It-3D
+https://github.com/ashawkey/stable-dreamfusion
+https://www.nvidia.com/en-us/omniverse/synthetic-data/
